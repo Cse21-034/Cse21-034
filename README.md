@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leatile Mosimanyana</h1>
-<h3 align="center">A passionate developer from Botswana</h3>
+<h3 align="center">🎓 BSc (Hons) Computer Systems & Software Engineering Student | 💻 Developer | 🔐 Cybersecurity Enthusiast  
+📍 Molepolole, Botswana | 📧 leatilemanando@gmail.com
+</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
