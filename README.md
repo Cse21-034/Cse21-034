@@ -1,221 +1,255 @@
-# 🚀 Leatile Mosimanyana
-
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Computer+Systems+Engineer;Full+Stack+Developer;Cybersecurity+Enthusiast;AI%2FML+Practitioner)
+<!-- Hero Section with Glassmorphism Effect -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=Leatile%20Mosimanyana&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Systems%20%26%20Software%20Engineering&descAlignY=51&descSize=20"/>
+
+<!-- Dynamic Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;Cybersecurity+Enthusiast+%F0%9F%94%90;AI%2FML+Engineer+%F0%9F%A4%96;Innovation+Through+Code+%E2%9C%A8" alt="Typing SVG" />
 
 </div>
 
----
+<!-- Glassmorphism Info Cards -->
+<div align="center">
+<table>
+<tr>
+<td>
 
-## 🎯 About Me
-
-```typescript
-const leatile = {
-    role: "BSc (Hons) Computer Systems & Software Engineering Student",
-    location: "Molepolole, Botswana 🇧🇼",
-    interests: ["Full Stack Development", "Cybersecurity", "AI/ML", "Mobile Apps"],
-    currentFocus: "Building secure, scalable applications",
-    funFact: "I turn coffee into code ☕➡️💻"
-};
+```yaml
+Personal Info:
+  Name: "Leatile Mosimanyana"
+  Role: "BSc Computer Systems Engineering"
+  Location: "Molepolole, Botswana 🇧🇼"
+  Status: "Building the future, one commit at a time"
+  Passion: ["Clean Code", "Security", "Innovation"]
 ```
 
-<div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-leatilemanando%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leatilemanando@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6366F1?style=for-the-badge&logo=firefox&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+</td>
+<td>
 
-</div>
-
----
-
-## 🛠️ Tech Arsenal
-
-<details open>
-<summary><b>🖥️ Frontend Development</b></summary>
-<br>
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>⚙️ Backend Development</b></summary>
-<br>
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>📱 Mobile Development</b></summary>
-<br>
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🗄️ Database & Cloud</b></summary>
-<br>
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🤖 AI/ML & Data Science</b></summary>
-<br>
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🛠️ Tools & Technologies</b></summary>
-<br>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
-
-</details>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=6366F1"/>
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
-</div>
-
----
-
-## 🎯 Current Projects
-
-<div align="center">
-
-| 🚀 Project | 📝 Description | 🔧 Tech Stack | 🔗 Links |
-|------------|----------------|----------------|----------|
-| **SecureChat** | End-to-end encrypted messaging app | React Native, Node.js, MongoDB | [Demo](#) \| [Code](#) |
-| **AI TaskMaster** | AI-powered task management system | Python, TensorFlow, React | [Demo](#) \| [Code](#) |
-| **CyberGuard** | Network security monitoring tool | Java, Spring Boot, MySQL | [Demo](#) \| [Code](#) |
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0D1117&color=6366F1&line=6366F1&point=FF6B6B&area=true&hide_border=true"/>
-</div>
-
----
-
-## 💭 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true"/>
-</div>
-
----
-
-## 🎵 Coding Vibes
-
-<div align="center">
-  
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify-playing)](https://open.spotify.com/user/yourusername)
-
-</div>
-
----
-
-## 🤝 Let's Connect & Collaborate
-
-<div align="center">
-
-```bash
-# Let's build something amazing together!
-git clone https://github.com/yourusername/collaboration.git
-cd collaboration
-npm install awesome-ideas
+```yaml
+Current Focus:
+  🎯 Learning: "Advanced Cybersecurity"
+  🔨 Building: "Scalable Web Applications" 
+  🌱 Growing: "AI/ML Expertise"
+  💡 Exploring: "Cloud Architecture"
+  ⚡ Goal: "Impact Through Technology"
 ```
 
-**💡 Open to:**
-- Collaborative projects
-- Mentorship opportunities  
-- Tech discussions
-- Open source contributions
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+<!-- Contact Section with Modern Buttons -->
+<div align="center">
+<h2>🌐 Let's Connect</h2>
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:leatilemanando@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=firefox&logoColor=white&labelColor=667eea)](#)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](#)
 
 </div>
 
 ---
 
-## ☕ Support My Work
+<!-- Skills Section with Modern Layout -->
+<h2 align="center">🛠️ Technology Stack</h2>
 
 <div align="center">
 
-If you find my projects helpful, consider buying me a coffee! ☕
+### 🎨 Frontend Development
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind,bootstrap,figma" />
+</p>
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/fountstream)
+### ⚙️ Backend Development  
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,php,laravel,python,java,spring,express,firebase" />
+</p>
+
+### 📱 Mobile Development
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,kotlin,androidstudio,dart,react" />
+</p>
+
+### 🗄️ Database & Cloud
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis,sqlite,aws,gcp,docker" />
+</p>
+
+### 🤖 AI/ML & Data Science
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python,opencv,sklearn" />
+<img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+<img height="48" width="48" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" />
+</p>
+
+### 🔧 Tools & Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,arduino,photoshop,blender,postman" />
+</p>
 
 </div>
 
 ---
 
+<!-- GitHub Stats with Glass Effect -->
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&title_color=667eea&icon_color=f093fb&text_color=c9d1d9&bg_color=0,0d1117,151b23"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=transparent&hide_border=true&stroke=667eea&ring=667eea&fire=f093fb&currStreakLabel=667eea&background=0D1117"/>
+</div>
+
+<div align="center">
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=transparent&hide_border=true&title_color=667eea&text_color=c9d1d9&bg_color=0,0d1117,151b23&langs_count=12"/>
+</div>
+
+---
+
+<!-- Project Showcase -->
+<h2 align="center">🚀 Featured Projects</h2>
+
 <div align="center">
 
-### 🌟 *"Code is poetry written in logic"* 🌟
+<a href="#">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=SecureChat&theme=transparent&hide_border=true&title_color=667eea&text_color=c9d1d9&icon_color=f093fb&bg_color=0,0d1117,151b23"/>
+</a>
+<a href="#">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=AITaskMaster&theme=transparent&hide_border=true&title_color=667eea&text_color=c9d1d9&icon_color=f093fb&bg_color=0,0d1117,151b23"/>
+</a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=6366F1&style=flat-square&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/yourusername?color=6366F1&style=flat-square&logo=github)
+</div>
 
-**⭐ Star my repositories if you find them useful!**
+<!-- Project Details -->
+<div align="center">
+<table>
+<tr>
+<th>🎯 Project</th>
+<th>🔧 Tech Stack</th>
+<th>📊 Status</th>
+<th>🔗 Links</th>
+</tr>
+<tr>
+<td><b>SecureChat</b><br/>End-to-End Encrypted Messaging</td>
+<td><img src="https://skillicons.dev/icons?i=react,nodejs,mongodb" /></td>
+<td><img src="https://img.shields.io/badge/Status-Live-success?style=flat-square"/></td>
+<td><a href="#"><img src="https://img.shields.io/badge/Demo-Live-667eea?style=flat-square"/></a></td>
+</tr>
+<tr>
+<td><b>AI TaskMaster</b><br/>Intelligent Task Management</td>
+<td><img src="https://skillicons.dev/icons?i=python,tensorflow,react" /></td>
+<td><img src="https://img.shields.io/badge/Status-Development-yellow?style=flat-square"/></td>
+<td><a href="#"><img src="https://img.shields.io/badge/Code-GitHub-667eea?style=flat-square"/></a></td>
+</tr>
+<tr>
+<td><b>CyberGuard</b><br/>Network Security Monitor</td>
+<td><img src="https://skillicons.dev/icons?i=java,spring,mysql" /></td>
+<td><img src="https://img.shields.io/badge/Status-Beta-orange?style=flat-square"/></td>
+<td><a href="#"><img src="https://img.shields.io/badge/Preview-Available-667eea?style=flat-square"/></a></td>
+</tr>
+</table>
+</div>
+
+---
+
+<!-- Achievement Showcase -->
+<h2 align="center">🏆 Achievements & Recognition</h2>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=transparent&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&title=MultiLanguage,Commits,PullRequest,Reviews,Stars,Repositories,Followers,Issues"/>
+</div>
+
+---
+
+<!-- Activity Graph -->
+<h2 align="center">📈 Contribution Activity</h2>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0d1117&color=667eea&line=f093fb&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph"/>
+</div>
+
+---
+
+<!-- Current Learning Section -->
+<h2 align="center">📚 Currently Exploring</h2>
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" height="48"/><br/>
+<strong>Kubernetes</strong><br/>
+<img src="https://geps.dev/progress/75"/>
+</td>
+<td align="center" width="20%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="48" height="48"/><br/>
+<strong>Rust</strong><br/>
+<img src="https://geps.dev/progress/60"/>
+</td>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=graphql" width="48" height="48"/><br/>
+<strong>GraphQL</strong><br/>
+<img src="https://geps.dev/progress/80"/>
+</td>
+<td align="center" width="20%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="48" height="48"/><br/>
+<strong>Blockchain</strong><br/>
+<img src="https://geps.dev/progress/45"/>
+</td>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=threejs" width="48" height="48"/><br/>
+<strong>Three.js</strong><br/>
+<img src="https://geps.dev/progress/70"/>
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+<!-- Quote Section -->
+<div align="center">
+<h2>💭 Quote of the Day</h2>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&border=true"/>
+</div>
+
+---
+
+<!-- Support Section -->
+<h2 align="center">☕ Support My Journey</h2>
+
+<div align="center">
+<p>If you appreciate my work and would like to support my coding journey:</p>
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/fountstream)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](#)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](#)
 
 </div>
 
 ---
 
+<!-- Footer with animated wave -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Happy%20Coding!&fontSize=16&fontColor=white&animation=twinkling"/>
+
+### 🌟 *"Innovation distinguishes between a leader and a follower"* - Steve Jobs
+
+<img src="https://komarev.com/ghpvc/?username=yourusername&color=667eea&style=for-the-badge&label=Profile+Views"/>
+<img src="https://img.shields.io/github/followers/yourusername?color=667eea&style=for-the-badge&logo=github&label=Followers"/>
+<img src="https://img.shields.io/github/stars/yourusername?color=667eea&style=for-the-badge&logo=github&label=Total+Stars"/>
+
+</div>
+
+<!-- Animated footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
+
+---
+
+<div align="center">
+<i>⭐ Don't forget to star repositories you find interesting!</i><br/>
+<i>🤝 Always open to collaboration and new opportunities</i>
 </div>
