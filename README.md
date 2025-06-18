@@ -8,7 +8,7 @@
 <div align="center" style="margin-bottom: 40px;">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;Cybersecurity+Enthusiast+%F0%9F%94%90;AI%2FML+Engineer+%F0%9F%A4%96;Innovation+Through+Code+%E2%9C%A8" alt="Typing SVG" />
 </div>
-
+<br><br><br>
 <!-- About Me Section with Background -->
 <div align="center" style="margin-top: 40px;">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" height="200" />
