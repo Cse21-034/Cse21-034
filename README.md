@@ -1,6 +1,6 @@
 <!-- Hero Section with Custom Background -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=Leatile%20Mosimanyana&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Systems%20%26%20Software%20Engineering&descAlignY=51&descSize=20"/>
+ 
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Leatile%20Mosimanyana&fontSize=40&fontColor=ffffff" width="100%" />
 
@@ -10,7 +10,7 @@
 
 <!-- About Me Section with Background -->
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" height="200" />
 
 <h2>🎯 About Me</h2>
 
