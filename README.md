@@ -1,8 +1,8 @@
 <!-- Hero Section with Custom Background -->
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=Leatile%20Mosimanyana&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Systems%20%26%20Software%20Engineering&descAlignY=51&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=Leatile%20Mosimanyana&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Systems%20%26%20Software%20Engineering&descAlignY=51&descSize=20"/>
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=667eea&height=200&section=header&text=Leatile%20Mosimanyana&fontSize=40&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Leatile%20Mosimanyana&fontSize=40&fontColor=ffffff" width="100%" />
 
 <!-- Dynamic Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;Cybersecurity+Enthusiast+%F0%9F%94%90;AI%2FML+Engineer+%F0%9F%A4%96;Innovation+Through+Code+%E2%9C%A8" alt="Typing SVG" />
